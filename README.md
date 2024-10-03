@@ -4,7 +4,7 @@
 
 ## GitHub Actions
 
-[![Node.js CI](https://github.com/JeanNesi/JeanNesi-Turma01-API/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/JeanNesi/JeanNesi-Turma01-API/actions/workflows/node.js.yml)
+[![Node.js CI](https://github.com/JeanNesi/JeanNesi-Turma01-API/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/JeanNesi/JeanNesi-Turma01-API/actions/workflows/node.js.yml)
 
 # Getting Started
 
